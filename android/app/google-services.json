@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110397543877",
+    "project_id": "kaja-salat-5414a",
+    "storage_bucket": "kaja-salat-5414a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110397543877:android:71a8a42a16e166177567ac",
+        "android_client_info": {
+          "package_name": "com.fahimzihad.kajaSalat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDziJWZOtY6guFU5-vf62ZMHxzLWOAr9qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
